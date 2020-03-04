@@ -1,0 +1,70 @@
+;Tytul;Lokalizacja;Cena;Cena_za_metr;Powierzchnia;Liczba pokoi;Rynek;Piętro;Liczba pięter;Okna;Rodzaj zabudowy;Czynsz;Forma własności;Ogrzewanie;Rok budowy;Materiał budynku;Stan wykończenia;Dostępne od
+0;Mieszkanie po generalnym remoncie!;Bydgoszcz, Bartodzieje;269000;7231;37,20 m²;2;wtórny;4;11;plastikowe;;;;;;;;
+1;Rzeszów, mieszkanie na sprzedaż, Baranówka;Rzeszów, podkarpackie;264000;5116;51,60 m²;3;wtórny;3;;plastikowe;blok;490 zł;pełna własność;;;;;
+2;Mieszkanie, 31 m², Kraków;Kraków, Nowa Huta, Czyżyny, os. Kościuszkowskie;333000;10742;31 m²;1;wtórny;5;10;plastikowe;blok;279 zł;;miejskie;1970;;;
+3;Borek Fałęcki, 2 niezależne pokoje;Kraków, Łagiewniki-Borek Fałęcki, Borek Fałęcki, Zakopiańska;233000;6853;34 m²;2;wtórny;2;3;plastikowe;kamienica;200 zł;;;1920;cegła;;
+4;Mieszkanie, 36,45 m², Kraków;Kraków, Bieńczyce, os. Kazimierzowskie;302500;8299;36,45 m²;2;wtórny;10;10;plastikowe;blok;270 zł;;miejskie;;;do remontu;
+5;2 pokoje + balkon, bez prowizji -ceny Dewelopera;Wieliczka, wielicki, małopolskie;279600;7249;38,57 m²;2;pierwotny;2;4;plastikowe;blok;;;;2021;;;
+6;Dom Marzeń III Etap, mieszkanie 31;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;434979;7650;56,86 m²;3;pierwotny;2;5;;;;;;2019;;do wykończenia;
+7;Nowe 3 pokoje + narożny ogródek 97m2;Wieliczka, wielicki, małopolskie;353600;6950;50,88 m²;3;pierwotny;parter;4;plastikowe;blok;;;;2021;;;
+8;Nowe mieszkanie od dewelopera/Olimpia Port;Wrocław, Psie Pole, Ferdynanda Magellana;513000;9189;55,83 m²;3;wtórny;1;3;;apartamentowiec;;pełna własność;miejskie;2019;pustak;;
+14;Dom Marzeń III Etap, mieszkanie 30;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;463314;7400;62,61 m²;3;pierwotny;2;5;;;;;;2019;;do wykończenia;
+15;Komfortowe Dwupoziomowe w Pełni Wyposażone, METRO!;Warszawa, Bemowo, Górce, ul. gen. Tadeusza Pełczyńskiego;790000;10621;74,38 m²;4;wtórny;3;;plastikowe;blok;660 zł;pełna własność;miejskie;2001;;do zamieszkania;
+17;Mieszkanie 4-pokojowe w okolicach Galerii Tomaszów;ul. Siedmiodomki, Tomaszów Mazowiecki, tomaszowski, łódzkie;309600;4300;72 m²;4;wtórny;2;2;plastikowe;blok;440 zł;pełna własność;gazowe;1980;wielka płyta;do zamieszkania;2020-01-19
+19;Złota 44 - najtańszy - 5% Roi - 34 127m2;Warszawa, Śródmieście, Złota;2150000;34127;63 m²;2;wtórny;> 10;44;aluminiowe;apartamentowiec;;pełna własność;miejskie;2018;inne;;
+21;Złota 44 - bezpośrednio - 31 731 m2;Warszawa, Śródmieście, Złota;3300000;31731;104 m²;2;wtórny;> 10;52;aluminiowe;apartamentowiec;;pełna własność;miejskie;2018;inne;;
+24;Złota 44 - bezpośrednio i 0% prowizji.;Warszawa, Śródmieście, Złota;4497417;21325;210,90 m²;4;pierwotny;10;52;aluminiowe;apartamentowiec;;pełna własność;miejskie;2018;inne;;
+25;Złota 44 - bezpośrednio i 0% prowizji.;Warszawa, Śródmieście, Złota;4795320;44900;106,80 m²;3;pierwotny;> 10;44;aluminiowe;apartamentowiec;;pełna własność;miejskie;2015;inne;;
+29;Poznaj atuty tego mieszkania! Bemowo, blisko Metra;Warszawa, Bemowo;579000;8341;69,42 m²;3;pierwotny;1;5;plastikowe;blok;;pełna własność;miejskie;2021;;do wykończenia;
+30;Dwa widne pokoje, komfortowy rozkład. Ursynów;Warszawa, Ursynów;445000;10963;40,59 m²;2;pierwotny;4;4;plastikowe;blok;;pełna własność;miejskie;2020;;do wykończenia;
+31;Poznaj atuty tego mieszkania! 3 pokoje, Ursynów.;Warszawa, Ursynów;529000;8904;59,41 m²;3;pierwotny;4;4;plastikowe;blok;;pełna własność;miejskie;2020;;do wykończenia;
+38;Dom Marzeń III Etap, mieszkanie 29;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;360214;7950;45,31 m²;2;pierwotny;2;5;;;;;;2019;;do wykończenia;
+39;Dom Marzeń III Etap, mieszkanie 28;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;347812;7950;43,75 m²;2;pierwotny;2;5;;;;;;2019;;do wykończenia;
+41;4 pokoje w nowym budownictwie z garażem Przymorze;Gdańsk, Przymorze, Piastowska;1050000;12209;86 m²;4;wtórny;2;4;;blok;480 zł;pełna własność;miejskie;2008;pustak;do zamieszkania;
+42;Zielona Góra, Strumykowa przy Dolinie Gęśnika;Zielona Góra, Centrum, ul. Strumykowa;399000;6045;66 m²;3;wtórny;3;4;plastikowe;apartamentowiec;550 zł;pełna własność;miejskie;2010;silikat;do zamieszkania;2020-01-31
+45;Nowe mieszkanie na Felinie, dwa pokoje;Lublin, Felin;237000;5780;41 m²;2;pierwotny;2;3;plastikowe;blok;;pełna własność;miejskie;2019;;do wykończenia;
+46;Dom Marzeń III Etap, mieszkanie 27;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;337875;7950;42,50 m²;2;pierwotny;2;5;;;;;;2019;;do wykończenia;
+47;2 pok., os.Tuwima (Katowice – Wełnowiec);Siemianowice Śląskie, śląskie;188000;3913;48,05 m²;2;wtórny;1;2;;blok;;pełna własność;;;cegła;do remontu;
+48;Ładne mieszkanie Pruszcz Gdański 2 pokoje. Widok!;ul. Obrońców Wybrzeża, Pruszcz Gdański, gdański, pomorskie;299000;7119;42 m²;2;wtórny;4;4;plastikowe;blok;380 zł;pełna własność;miejskie;1967;pustak;do zamieszkania;2020-03-04
+54;Piękne mieszkanie na ul. Zawadzkiego;"ul. Tadeusza Zawadzkiego ""Zośki"", Zielona Góra, lubuskie";279000;5813;48 m²;2;wtórny;3;4;plastikowe;blok;400 zł;;;;;do zamieszkania;2020-03-15
+55;Dom Marzeń III Etap, mieszkanie 26;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;382236;7950;48,08 m²;2;pierwotny;2;5;;;;;;2019;;do wykończenia;
+56;3 pokoje/ Rozkład/ Centrum/ Bema;Wrocław, Śródmieście, Centrum, ul. gen. Józefa Bema;535000;8671;61,70 m²;3;wtórny;4;6;plastikowe;blok;;spółdzielcze własnościowe;miejskie;1993;cegła;do zamieszkania;
+57;Luksusowe, 2 pokoje z widokiem na Park Śląski;Katowice, Osiedle Tysiąclecia;345000;7841;44 m²;2;wtórny;> 10;18;plastikowe;blok;400 zł;pełna własność;miejskie;1980;wielka płyta;;
+59;2 pokoje ul. Strubiczów 8;Warszawa, Włochy;365000;10000;36,50 m²;2;wtórny;2;;plastikowe;blok;;spółdzielcze własnościowe;miejskie;;wielka płyta;;2020-03-02
+61;Luksusowe, SUPERJEDNOSTKA, obok Spodek, MCK, NOSPR;Katowice, Koszutka, Korfantego;376000;7833;48 m²;2;wtórny;9;12;plastikowe;blok;480 zł;spółdzielcze wł. z KW;miejskie;1980;wielka płyta;do zamieszkania;
+63;Dom Marzeń III Etap, mieszkanie 25;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;454434;7400;61,41 m²;3;pierwotny;2;5;;;;;;2019;;do wykończenia;
+64;Dom Marzeń III Etap, mieszkanie 24;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;373540;7948;47 m²;2;pierwotny;2;5;;;;;;2019;;do wykończenia;
+65;Otwock 2 pokoje 35m2+ogródek Nowa inwestycja!;Otwock, otwocki, mazowieckie;225224;6341;35,52 m²;2;pierwotny;parter;2;;blok;;;miejskie;2021;;do wykończenia;
+66;Mieszkanie, 60,54 m², Chrzanów;Chrzanów, chrzanowski, małopolskie;295000;4873;60,54 m²;3;wtórny;2;2;;;;pełna własność;;;;;
+68;Komfortowe trzy pokoje z ogródkiem!;Bydgoszcz, Górny Taras, Kapuściska, Białogardzka;417690;6340;65,88 m²;3;pierwotny;parter;5;;;;;miejskie;2020;inne;;2020-07-01
+70;Mieszkanie, 53 m², Gorzów Wielkopolski;Gorzów Wielkopolski, lubuskie;179000;3377;53 m²;2;wtórny;2;3;plastikowe;kamienica;500 zł;pełna własność;miejskie;;cegła;do remontu;
+74;Dom Marzeń III Etap, mieszkanie 23;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;426946;10480;40,74 m²;2;pierwotny;2;5;;;;;;2019;;do wykończenia;
+75;Dom Marzeń III Etap, mieszkanie 22;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;426946;7650;55,81 m²;3;pierwotny;1;5;;;;;;2019;;do wykończenia;
+76;Drabinianka, mieszkanie 63m w bloku z windą 2012r.;Rzeszów, Drabinianka, Jazowa;420000;6667;63 m²;3;wtórny;4;4;;blok;;pełna własność;miejskie;2012;cegła;;
+77;Mieszkanie, 39,05 m², Lubin;Lubin, Centrum;185000;4738;39,05 m²;2;wtórny;;4;plastikowe;blok;295 zł;;miejskie;;;;
+81;Przestronny apartament 150 m od morza w Łukęcinie;Łukęcin, kamieński, zachodniopomorskie;479000;11975;40 m²;2;wtórny;2;3;plastikowe;blok;170 zł;pełna własność;elektryczne;2015;pustak;do zamieszkania;2020-03-31
+84;HIT!! 2poziomowe mieszkanie z rabatem 100 000zł;Łódź, Bałuty, Arturówek, Warszawska 84/86;898491;8009;112,19 m²;3;wtórny;2;2;;apartamentowiec;;;;;;do zamieszkania;2018-08-09
+89;Dom Marzeń III Etap, mieszkanie 21;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;329448;7950;41,44 m²;2;pierwotny;1;5;;;;;;2019;;do wykończenia;
+90;Apartamenty PARAISO nad morzem Z BASENEM!!;morska 10, Łukęcin, kamieński, zachodniopomorskie;362285;7700;47,05 m²;2;pierwotny;1;1;;apartamentowiec;;;gazowe;2019;;;
+91;Bezpośrednio sprzedam Kazimierz. 3 pokoje 60m2;Kraków, Stare Miasto, Kazimierz, ul. Miodowa;699000;11650;60 m²;3;wtórny;3;3;plastikowe;kamienica;350 zł;pełna własność;gazowe;1932;cegła;do zamieszkania;2019-11-19
+93;Sprzedam mieszkanie 49m;ul. Władysława Sikorskiego, Głowno, zgierski, łódzkie;150000;3061;49 m²;2;wtórny;;;plastikowe;;;spółdzielcze wł. z KW;kotłownia;;;do zamieszkania;
+95;ostatnie mieszkanie z ogrodem POZNAŃ/POKRZYWNO;Poznań, Nowe Miasto, Pokrzywno, ul. Żurawicka;399000;4433;90 m²;4;pierwotny;1;1;plastikowe;dom wolnostojący;;pełna własność;gazowe;;pustak;do wykończenia;2020-02-12
+96;Atrakcyjne mieszkanie w centrum - nowe budownictwo;Lublin, Wieniawa, ul. ks. Jerzego Popiełuszki;439000;7839;56 m²;2;wtórny;2;3;drewniane;blok;;pełna własność;miejskie;2008;;do zamieszkania;
+97;Kamienica Szaserów 23 - Nowa Inwestycja;Warszawa, Praga-Południe, Szaserów 23;567700;9947;57,07 m²;3;pierwotny;2;3;;kamienica;;pełna własność;;2020;;do wykończenia;
+98;nowe, 2- pokojowe mieszkanie z garażem i ogrodem;Wrocław, Krzyki, Ołtaszyn, ul. Brylantowa 19;410000;7455;55 m²;2;pierwotny;parter;1;plastikowe;apartamentowiec;50 zł;pełna własność;gazowe;2020;silikat;do wykończenia;
+99;Praga-Północ, ul. ks. Ignacego Kłopotowskiego 4;Warszawa, Praga-Północ, ul. ks. Ignacego Kłopotowskiego;8600;8600;1 m²;2;pierwotny;5;;drewniane;kamienica;9 zł;pełna własność;miejskie;2021;;do wykończenia;
+100;M-4 Olechów 1 piętro 73 m2 cegła;Łódź, Widzew, Olechów;470000;6438;73 m²;3;wtórny;1;4;plastikowe;blok;;pełna własność;miejskie;2000;cegła;do zamieszkania;
+101;HOT * SUPER lokalizacja * tramwaj * 2-pokoje;Poznań, Nowe Miasto, Rataje;268290;8250;32,52 m²;2;pierwotny;2;6;plastikowe;blok;;pełna własność;miejskie;2021;;do wykończenia;
+102;M-4 M-5 w bardzo dobrym stanie przy Białym Kościel;Łódź, Górna;348000;5524;63 m²;3;wtórny;parter;4;plastikowe;blok;;pełna własność;miejskie;1974;wielka płyta;do zamieszkania;
+103;Okazja! Kawalerka na Mokotowie, idealna na inwesty;Warszawa, Mokotów;298000;11920;25 m²;1;wtórny;2;2;plastikowe;kamienica;380 zł;spółdzielcze wł. z KW;miejskie;1953;cegła;do remontu;2020-03-04
+104;Nowe mieszkania spółdzielcze lokatorskie;ul. Krzysztofa Kamila Baczyńskiego, Bielawa, dzierżoniowski, dolnośląskie;38962;953;40,87 m²;2;pierwotny;parter;3;plastikowe;blok;90 zł;spółdzielcze własnościowe;miejskie;2021;silikat;do wykończenia;2021-08-31
+107;Sprzedam komfortowe mieszkanie 55m, 3 pokoje.;Ruda Śląska, Wirek, Magdziorza;149000;2709;55 m²;3;wtórny;2;2;;kamienica;;spółdzielcze własnościowe;gazowe;;cegła;;
+108;"Namysłów ""Osiedle Różane""-131m2 szeregowe";Osiedle Różane, Namysłów, namysłowski, opolskie;359000;2740;131,04 m²;4;pierwotny;parter;2;plastikowe;szeregowiec;;pełna własność;gazowe;2018;cegła;do wykończenia;
+109;Dom Marzeń III Etap, mieszkanie 20;ul. Jana Pawła II, Piaseczno, piaseczyński, mazowieckie;433984;7650;56,73 m²;3;pierwotny;1;5;;;;;;2019;;do wykończenia;
+110;Kawalerka po remoncie na Biskupinie;Wrocław, Śródmieście, Biskupin;299000;11500;26 m²;1;wtórny;3;4;;;280 zł;;miejskie;1983;;do zamieszkania;
+111;3 pokoje w zabytkowej kamienicy - Śródmieście;Warszawa, Śródmieście;989000;11916;83 m²;3;wtórny;3;4;drewniane;kamienica;;pełna własność;miejskie;1904;cegła;do remontu;2020-03-04
+112;Osiedle Maja 2 - 47,32m2 bez pośredników;Namysłów, namysłowski, opolskie;189232,68;3999;47,32 m²;2;pierwotny;1;4;plastikowe;apartamentowiec;;pełna własność;gazowe;2019;cegła;do wykończenia;2019-12-31
+113;I piętro 2 pokoje z balkonem PIEKARY A;Legnica, dolnośląskie;219000;4803;45,60 m²;2;wtórny;1;4;drewniane;blok;345 zł;spółdzielcze wł. z KW;miejskie;1980;wielka płyta;do zamieszkania;2020-03-04
+114;Osiedle maja 2 - 42,01m2 bez pośredników;Namysłów, namysłowski, opolskie;180643;4300;42,01 m²;2;pierwotny;1;4;plastikowe;blok;;pełna własność;gazowe;2019;cegła;do wykończenia;2019-12-31
+115;Trzypokojowe w apartamentowcu na Parkitce;Częstochowa, Parkitka, Częstochówka - Parkitka, ul. Bialska;486000;5799;83,81 m²;3;wtórny;2;3;plastikowe;apartamentowiec;280 zł;pełna własność;gazowe;2013;cegła;do zamieszkania;2020-03-05
+116;Kamienica Szaserów 23 - Nowa Inwestycja;Warszawa, Praga-Południe, Szaserów 23;288860;11690;24,71 m²;1;pierwotny;2;3;;kamienica;;pełna własność;;2020;;do wykończenia;
