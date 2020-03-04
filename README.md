@@ -13,7 +13,7 @@ Collect information about houses for sale from [OtoDom](https://www.otodom.pl/) 
 * Chromdriver
 
 # TranslatorInTerminal
-This is my hobby project with Webscrapping. I have implemented a script that collects the translation of word data from [online dictionary pl.bab.la](https://pl.bab.la/slownik/Polish-English/bla-bla) and displays them in the terminal window. This program translates words from English to Polish and from Polish to English.
+This is my hobby project with Webscrapping. I have implemented a script that collects the translation of word data from [Online Dictionary pl.bab.la](https://pl.bab.la/slownik/Polish-English/bla-bla) and displays them in the terminal window. This program translates words from English to Polish and from Polish to English.
 
 ## Instructions for use
 Add two aliases to .bashrc file :
@@ -21,7 +21,9 @@ Add two aliases to .bashrc file :
 - alias pol-ang='python (path to script location)/translator.py pol-ang' 
 
 <b> </b>
-At the command prompt, call <i> ang-pol word_to_traslate_from_English_to_Polish </i> or pol-ang word_to_traslate_from_Polish_to_English
+At the command prompt, call: 
+- <i> ang-pol word_to_traslate_from_English_to_Polish </i> or 
+- <i> pol-ang word_to_traslate_from_Polish_to_English </i>
 
 ## Dependencies
 * Linux
