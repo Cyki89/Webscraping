@@ -1,4 +1,4 @@
-# Webscrapping
+# Webscraping
 This repository contains two mini-educational projects from Webscrapping. 
 
 # OtoDom
@@ -13,7 +13,7 @@ Collect information about houses for sale from [OtoDom](https://www.otodom.pl/) 
 * Chromdriver
 
 # TranslatorInTerminal
-This is my hobby project with Webscrapping. I have implemented a script that collects the translation of word data from [Online Dictionary pl.bab.la](https://pl.bab.la/slownik/Polish-English/bla-bla) and displays them in the terminal window. This program translates words from English to Polish and from Polish to English.
+This is my hobby project with Webscraping. I have implemented a script that collects the translation of word data from [Online Dictionary pl.bab.la](https://pl.bab.la/slownik/Polish-English/bla-bla) and displays them in the terminal window. This program translates words from English to Polish and from Polish to English.
 
 ## Instructions for use
 Add two aliases to .bashrc file :
